@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Danylo\source\repos\Lab_1(31)\Lab_1(31)\Source.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_1(31)\Lab_1(31)\Source.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab_1(31)\Lab_1(31)\Source.cpp(27): warning C4715: 'input': not all control paths return a value
+  Lab_1(31).vcxproj -> C:\Users\Danylo\source\repos\Lab_1(31)\Debug\Lab_1(31).exe
