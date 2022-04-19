@@ -1,0 +1,10 @@
+﻿  Text.cpp
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(40,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(48,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(49,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(65,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danylo\source\repos\Lab3(31)\Lab3(31)\Text.cpp(73,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3(31).vcxproj -> C:\Users\Danylo\source\repos\Lab3(31)\Debug\Lab3(31).exe
